@@ -1,30 +1,21 @@
 # Mike Jang
 
-**Software Engineer · Robotics, Automation & Intelligent Systems**
+**Software Engineer · Robotics & Industrial Automation**
 
-I build software that connects digital systems with real-world machines.
-My interests include open-source tools, robotics, and intelligent manufacturing.
+I develop software for industrial robotic systems, with experience in robot control, HMI development, and manufacturing automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minwoo-jang/) [![Resume](https://img.shields.io/badge/Resume%20%2F%20CV-24292F?style=flat-square&logo=readme&logoColor=white)](CV.md) [![Repositories](https://img.shields.io/badge/Repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/mikejang-dev?tab=repositories)
+Currently a software engineer at NAU Robotics. My work spans C++/Qt-based control interfaces, industrial communication, and engineering projects in South Korea and the United States.
 
-### Background
+[LinkedIn](https://www.linkedin.com/in/minwoo-jang/)
 
-- **NAU Robotics** — Robot Control Software Engineer
-- **HANYANG Robotics** — Former Robot Control Software Engineer
-- **Hanyang University ERICA** — Robotics Convergence, Class of 2026
-- International engineering experience in the United States (Alabama & Georgia)
+## Areas of Engineering
 
-### Selected work
+- **Robotics** — Robot control, motion planning, simulation
+- **Software** — C++, Qt, Python, TypeScript
+- **Industrial Systems** — HMI, EtherCAT, automation
 
-| Project | Focus |
-| --- | --- |
-| Industrial Robot HMI | C++ / Qt · Angular / TypeScript |
-| SCARA Robot Path Planning | A* · Robotics |
-| AI-Based Image Classification | MobileNetV2 · CBAM |
-| Hotel Service Automation | Python · CoppeliaSim |
+## Selected Projects
 
-### Tech stack
-
-`C++` `Python` `TypeScript` `Qt` `Angular` `ROS 2` `OpenCV` `EtherCAT` `Git` `Linux`
-
-**Open-source interests:** Developer tools · Industrial software · Robotics simulation
+- **SCARA Path Planning** — A* path planning for SCARA robotic systems.
+- **Robot Vision** — Attention-enhanced image classification using MobileNetV2 and CBAM.
+- **Service Robot Simulation** — Robotic service automation using Python and CoppeliaSim.
