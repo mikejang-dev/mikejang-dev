@@ -1,10 +1,8 @@
-# Mike Jang
+# Minwoo (Mike) Jang
 
 **Software Engineer · Robotics & Industrial Automation**
 
-I develop software for industrial robotic systems, with experience in robot control, HMI development, and manufacturing automation.
-
-Currently a software engineer at NAU Robotics. My work spans C++/Qt-based control interfaces, industrial communication, and engineering projects in South Korea and the United States.
+Currently at NAU Robotics, developing industrial robot control software and HMI systems using C++, Qt, and TypeScript, with engineering experience in South Korea and the United States.
 
 [LinkedIn](https://www.linkedin.com/in/minwoo-jang/)
 
